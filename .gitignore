@@ -1,0 +1,18 @@
+
+build/
+
+Data/
+
+Copy of Komodo Dragon\.xlsm
+
+do_not_count\.txt
+
+*.txt
+
+*.sublime-project
+
+*.sublime-workspace
+
+appJarTest\.py
+
+*.xlsx
